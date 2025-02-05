@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Levenstein", "Levenstein\Levenstein.csproj", "{35BD110A-B31B-4B34-BD14-BC8E7F6371DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{35BD110A-B31B-4B34-BD14-BC8E7F6371DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{35BD110A-B31B-4B34-BD14-BC8E7F6371DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{35BD110A-B31B-4B34-BD14-BC8E7F6371DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{35BD110A-B31B-4B34-BD14-BC8E7F6371DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E059F68F-DE2B-4CF0-B0BD-D8F635014C6F}
+	EndGlobalSection
+EndGlobal

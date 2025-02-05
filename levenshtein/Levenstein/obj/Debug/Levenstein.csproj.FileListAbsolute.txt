@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\Levenstein\Levenstein\bin\Debug\Levenstein.exe.config
+C:\Users\User\Desktop\Levenstein\Levenstein\bin\Debug\Levenstein.exe
+C:\Users\User\Desktop\Levenstein\Levenstein\bin\Debug\Levenstein.pdb
+C:\Users\User\Desktop\Levenstein\Levenstein\obj\Debug\Levenstein.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Levenstein\Levenstein\obj\Debug\Levenstein.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\Levenstein\Levenstein\obj\Debug\Levenstein.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Levenstein\Levenstein\obj\Debug\Levenstein.exe
+C:\Users\User\Desktop\Levenstein\Levenstein\obj\Debug\Levenstein.pdb

@@ -1,0 +1,8 @@
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\obj\Debug\knuth_morris_pratt.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\obj\Debug\knuth_morris_pratt.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\obj\Debug\knuth_morris_pratt.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\bin\Debug\knuth_morris_pratt.exe.config
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\bin\Debug\knuth_morris_pratt.exe
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\bin\Debug\knuth_morris_pratt.pdb
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\obj\Debug\knuth_morris_pratt.exe
+C:\Users\User\Desktop\knuth_morris_pratt\knuth_morris_pratt\obj\Debug\knuth_morris_pratt.pdb
