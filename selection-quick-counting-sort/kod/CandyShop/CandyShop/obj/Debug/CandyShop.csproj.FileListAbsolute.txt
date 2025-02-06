@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\bin\Debug\CandyShop.exe.config
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\bin\Debug\CandyShop.exe
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\bin\Debug\CandyShop.pdb
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\obj\Debug\CandyShop.exe
+C:\Users\User\Desktop\19129c#lab2\CandyShop\CandyShop\obj\Debug\CandyShop.pdb
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\bin\Debug\CandyShop.exe.config
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\bin\Debug\CandyShop.exe
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\bin\Debug\CandyShop.pdb
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\obj\Debug\CandyShop.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\obj\Debug\CandyShop.exe
+C:\Users\User\Desktop\19129c#\19129c#\candyshop\CandyShop\CandyShop\obj\Debug\CandyShop.pdb

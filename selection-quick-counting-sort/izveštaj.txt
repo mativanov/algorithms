@@ -1,0 +1,7 @@
+Poređenje algoritama za sortiranje: Selection Sort, Quick Sort i Counting Sort
+
+Analiza performansi pokazuje da je Selection Sort ubedljivo najsporiji algoritam, ali istovremeno najštedljiviji u pogledu memorijske potrošnje. Zbog toga je pogodan za sortiranje nizova manje veličine, gde memorijska efikasnost ima prioritet nad brzinom izvršenja.
+
+Kod Quick Sort-a, vreme izvršenja raste sa povećanjem veličine niza, slično kao kod Selection Sort-a. Međutim, Quick Sort se pokazuje kao znatno efikasniji za veće nizove, uz umerenu potrošnju memorije, čineći ga pogodnim za šire primene.
+
+Sa druge strane, Counting Sort se ističe kao najbrži algoritam, ali i onaj koji zahteva najviše memorijskih resursa. U poređenju performansi, vreme izvršenja Selection Sort-a za niz od 10.000 elemenata približno odgovara vremenu izvršenja Counting Sort-a za niz od 10 miliona elemenata, što ukazuje na njegovu superiornu efikasnost u scenarijima gde je dostupna velika količina memorije.
